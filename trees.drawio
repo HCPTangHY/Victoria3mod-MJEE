@@ -29,21 +29,27 @@
                 <mxCell id="10" value="" style="edgeStyle=none;html=1;" parent="1" source="3" target="9" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="40" y="360"/>
-                            <mxPoint x="-40" y="360"/>
+                            <mxPoint x="-20" y="360"/>
+                            <mxPoint x="-100" y="360"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="12" value="" style="edgeStyle=none;html=1;" parent="1" source="3" target="11" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="40" y="360"/>
-                            <mxPoint x="120" y="360"/>
+                            <mxPoint x="-20" y="360"/>
+                            <mxPoint x="60" y="360"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="3" value="皇帝万岁" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-20" y="280" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="-80" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="中体西用" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="220" y="280" width="120" height="60" as="geometry"/>
@@ -52,10 +58,16 @@
                     <mxGeometry x="400" y="280" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="9" value="皇族立宪" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="-100" y="390" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="-160" y="390" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="11" value="民主化" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="60" y="390" width="120" height="60" as="geometry"/>
+                    <mxGeometry y="390" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="中学为体" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="390" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="西学为用" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="294" y="390" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
