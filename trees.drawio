@@ -23,7 +23,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2" value="CHI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="2" value="中国" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="220" y="140" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="" style="edgeStyle=none;html=1;" parent="1" source="3" target="9" edge="1">
@@ -72,10 +72,10 @@
                 <mxCell id="9" value="皇族立宪" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="-160" y="390" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="11" target="23">
+                <mxCell id="24" value="" style="edgeStyle=none;html=1;" parent="1" source="11" target="23" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="11" target="25">
+                <mxCell id="26" value="" style="edgeStyle=none;html=1;" parent="1" source="11" target="25" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="11" value="民主化" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -93,10 +93,10 @@
                 <mxCell id="21" value="组织现代" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="590" y="390" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="自由派" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                <mxCell id="23" value="自由派" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="-70" y="480" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="社会主义" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                <mxCell id="25" value="社会主义" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="70" y="480" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
